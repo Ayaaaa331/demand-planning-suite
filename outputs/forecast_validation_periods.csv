@@ -1,0 +1,4 @@
+Fold,Training_Weeks,Training_Start,Training_End,Validation_Start,Validation_End,Validation_Weeks
+1,60,2020-07-06,2021-08-23,2021-08-30,2021-11-22,13
+2,63,2020-07-06,2021-09-13,2021-09-20,2021-12-13,13
+3,66,2020-07-06,2021-10-04,2021-10-11,2022-01-03,13

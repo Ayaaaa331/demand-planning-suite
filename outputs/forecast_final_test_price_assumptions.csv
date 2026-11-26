@@ -1,0 +1,11 @@
+Series,Forecast_Origin,Assumed_Price,Price_Assumption,Training_Observations
+North 1,2022-01-03,24.49825581395349,Median of preceding 13 weeks,79
+North 2,2022-01-03,29.29542595019659,Median of preceding 13 weeks,79
+North 3,2022-01-03,32.30768275862069,Median of preceding 13 weeks,79
+North 4,2022-01-03,33.42,Median of preceding 13 weeks,79
+North 5,2022-01-03,17.639333333333333,Median of preceding 13 weeks,71
+South 1,2022-01-03,23.79058823529412,Median of preceding 13 weeks,79
+South 2,2022-01-03,27.37,Median of preceding 13 weeks,79
+South 3,2022-01-03,31.94230769230769,Median of preceding 13 weeks,79
+South 4,2022-01-03,32.27,Median of preceding 13 weeks,79
+South 5,2022-01-03,16.43225,Median of preceding 13 weeks,71

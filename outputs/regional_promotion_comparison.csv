@@ -1,0 +1,6 @@
+Product_Group,Comparable_Weeks,North_Promotion_Weeks,South_Promotion_Weeks,Both_Regions,North_Only,South_Only,Promotion_Overlap_Pct
+1,86,30,30,30,0,0,100.0
+2,85,11,13,11,0,2,84.61538461538461
+3,86,28,28,25,3,3,80.64516129032258
+4,86,15,17,13,2,4,68.42105263157895
+5,70,6,7,6,0,1,85.71428571428571

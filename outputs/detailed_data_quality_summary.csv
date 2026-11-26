@@ -1,0 +1,11 @@
+Series,Observations,Missing_Sales,Missing_Prices,Zero_Sales,Potential_Outliers
+North 1,92,0,0,0,1
+North 2,92,0,1,0,6
+North 3,92,0,0,0,6
+North 4,92,0,0,0,3
+North 5,92,0,14,10,3
+South 1,92,0,0,0,5
+South 2,92,0,1,0,5
+South 3,92,0,0,0,5
+South 4,92,0,0,0,1
+South 5,92,0,15,10,8

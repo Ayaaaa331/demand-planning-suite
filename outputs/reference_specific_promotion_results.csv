@@ -1,0 +1,101 @@
+Product_Group,Reference_Definition,Model,N,Actual_Revenue_Gap,Model_Revenue_Effect
+1,75th percentile 13 weeks,Independent level + price,91,119552.79298333084,-99958.16386912315
+1,75th percentile 13 weeks,Independent log + price,91,184434.19333529106,-106857.42092804999
+1,75th percentile 13 weeks,Pooled level + price,91,132530.74595433197,-79730.63669320245
+1,75th percentile 13 weeks,Pooled log + nonlinear price,91,264925.26620897185,56780.36069650647
+1,75th percentile 13 weeks,Pooled log + price,91,194022.8153248643,-82825.23185694989
+1,Median 13 weeks,Independent level + price,58,268961.43778505013,-79270.32620771669
+1,Median 13 weeks,Independent log + price,58,337785.19619108166,-20899.452448740147
+1,Median 13 weeks,Pooled level + price,58,270887.3246887168,-67451.08300888163
+1,Median 13 weeks,Pooled log + nonlinear price,58,259840.26288203313,-44286.84754683077
+1,Median 13 weeks,Pooled log + price,58,336783.049028553,-4044.357362528179
+1,Median 26 weeks,Independent level + price,61,268041.6008109051,-93192.69094031441
+1,Median 26 weeks,Independent log + price,61,321204.7929191383,-59431.208874395685
+1,Median 26 weeks,Pooled level + price,61,272816.03962073853,-80274.9954370669
+1,Median 26 weeks,Pooled log + nonlinear price,61,270253.9582011207,-40138.60027308918
+1,Median 26 weeks,Pooled log + price,61,323910.73044615367,-41692.09577776611
+1,Median 8 weeks,Independent level + price,55,397200.5464688167,-58397.66857764844
+1,Median 8 weeks,Independent log + price,55,443294.7397427875,305.9036179661143
+1,Median 8 weeks,Pooled level + price,55,403002.1793931835,-44599.90813566006
+1,Median 8 weeks,Pooled log + nonlinear price,55,358318.68427149096,-28366.247537660107
+1,Median 8 weeks,Pooled log + price,55,445329.6581043501,18350.632028496875
+2,75th percentile 13 weeks,Independent level + price,41,-233206.89993964662,-197642.8835515551
+2,75th percentile 13 weeks,Independent log + price,41,-244704.25630743976,-286038.53131092014
+2,75th percentile 13 weeks,Pooled level + price,41,-228996.12264194348,-195627.260836129
+2,75th percentile 13 weeks,Pooled log + nonlinear price,41,-241664.04884557647,-287012.99972537026
+2,75th percentile 13 weeks,Pooled log + price,41,-245521.43303184677,-289805.9412167344
+2,Median 13 weeks,Independent level + price,22,-116973.5283537416,-93855.33426629096
+2,Median 13 weeks,Independent log + price,22,-102403.53430047695,-132722.13528686346
+2,Median 13 weeks,Pooled level + price,22,-111979.95475129681,-91345.17868806049
+2,Median 13 weeks,Pooled log + nonlinear price,22,-91688.88837954312,-123312.03685838009
+2,Median 13 weeks,Pooled log + price,22,-100986.18521383846,-134221.11251387012
+2,Median 26 weeks,Independent level + price,25,-135928.8362966478,-83449.92109475592
+2,Median 26 weeks,Independent log + price,25,-136964.46527740502,-123314.01042826801
+2,Median 26 weeks,Pooled level + price,25,-131610.1520296334,-79995.41249284253
+2,Median 26 weeks,Pooled log + nonlinear price,25,-147765.85728330546,-140821.54322969876
+2,Median 26 weeks,Pooled log + price,25,-134877.14869133502,-124180.0626576898
+2,Median 8 weeks,Independent level + price,13,-70314.94111019377,-48157.39194047141
+2,Median 8 weeks,Independent log + price,13,-48299.17974850365,-77620.80390217983
+2,Median 8 weeks,Pooled level + price,13,-69412.10139136354,-46988.94645271105
+2,Median 8 weeks,Pooled log + nonlinear price,13,-46233.62135442384,-79420.30494899959
+2,Median 8 weeks,Pooled log + price,13,-47889.28487718203,-79282.7692357937
+3,75th percentile 13 weeks,Independent level + price,81,815986.4662401993,591596.9586403512
+3,75th percentile 13 weeks,Independent log + price,81,683524.3729205218,352380.83443025185
+3,75th percentile 13 weeks,Pooled level + price,81,856027.924622893,655553.9870296607
+3,75th percentile 13 weeks,Pooled log + nonlinear price,81,694799.0446157951,413654.8664344429
+3,75th percentile 13 weeks,Pooled log + price,81,699297.3895460258,407371.41644536087
+3,Median 13 weeks,Independent level + price,54,713272.6507369325,241505.1009067988
+3,Median 13 weeks,Independent log + price,54,782463.7768428166,249213.47489160576
+3,Median 13 weeks,Pooled level + price,54,714953.3665120288,260982.68839170624
+3,Median 13 weeks,Pooled log + nonlinear price,54,879245.0213414471,467146.0223367976
+3,Median 13 weeks,Pooled log + price,54,776556.5803499192,278426.1592090388
+3,Median 26 weeks,Independent level + price,53,543113.8431236547,356080.7720958395
+3,Median 26 weeks,Independent log + price,53,586249.7514211712,376097.5543394064
+3,Median 26 weeks,Pooled level + price,53,548343.9691561947,379043.8979048285
+3,Median 26 weeks,Pooled log + nonlinear price,53,558299.6961623401,359567.1431455813
+3,Median 26 weeks,Pooled log + price,53,591514.2811439165,419843.2626111731
+3,Median 8 weeks,Independent level + price,55,814143.8855432961,207500.48781621462
+3,Median 8 weeks,Independent log + price,55,910154.699812942,236365.088794197
+3,Median 8 weeks,Pooled level + price,55,812033.2018307088,228916.02533238195
+3,Median 8 weeks,Pooled log + nonlinear price,55,1114724.607564111,575296.5066447987
+3,Median 8 weeks,Pooled log + price,55,904144.8312288759,261056.79227798484
+4,75th percentile 13 weeks,Independent level + price,51,-425928.7749674336,-283275.32073145336
+4,75th percentile 13 weeks,Independent log + price,51,-565138.312290426,-392395.38270086027
+4,75th percentile 13 weeks,Pooled level + price,51,-437385.8363043201,-293225.7351902541
+4,75th percentile 13 weeks,Pooled log + nonlinear price,51,-684682.647136616,-502298.38724178495
+4,75th percentile 13 weeks,Pooled log + price,51,-578162.4966319632,-395944.70428030146
+4,Median 13 weeks,Independent level + price,30,-248748.8931032233,-138632.71056863706
+4,Median 13 weeks,Independent log + price,30,-328454.0174198043,-202157.73050891422
+4,Median 13 weeks,Pooled level + price,30,-261509.25924067217,-141485.06777294766
+4,Median 13 weeks,Pooled log + nonlinear price,30,-388154.9402498054,-271328.15037878725
+4,Median 13 weeks,Pooled log + price,30,-338413.8885925863,-203918.66808055167
+4,Median 26 weeks,Independent level + price,33,-379085.24309192324,-247831.2948512036
+4,Median 26 weeks,Independent log + price,33,-500740.1731809507,-347503.70689183695
+4,Median 26 weeks,Pooled level + price,33,-373642.1592662395,-246787.41979318936
+4,Median 26 weeks,Pooled log + nonlinear price,33,-661560.665993744,-536085.6153765671
+4,Median 26 weeks,Pooled log + price,33,-498323.7937912503,-346272.16181466624
+4,Median 8 weeks,Independent level + price,24,-114013.74038198478,-58083.8340554265
+4,Median 8 weeks,Independent log + price,24,-169758.28309154493,-84816.0800415547
+4,Median 8 weeks,Pooled level + price,24,-126170.57098580636,-59306.43614849671
+4,Median 8 weeks,Pooled log + nonlinear price,24,-182513.98276086253,-93708.38018318296
+4,Median 8 weeks,Pooled log + price,24,-176818.2980393709,-83123.60362075975
+5,75th percentile 13 weeks,Independent level + price,11,-55631.99587429158,-27974.616028825516
+5,75th percentile 13 weeks,Independent log + price,11,-103046.17141933096,-50621.66218302916
+5,75th percentile 13 weeks,Pooled level + price,11,-57840.763890523805,-28466.685279456986
+5,75th percentile 13 weeks,Pooled log + nonlinear price,11,-117535.8976059318,40763.81521502622
+5,75th percentile 13 weeks,Pooled log + price,11,-113197.97811809818,-54381.167741861704
+5,Median 13 weeks,Independent level + price,8,-18421.169150385987,-10502.007804789428
+5,Median 13 weeks,Independent log + price,8,-26511.028120839735,-13149.361268529863
+5,Median 13 weeks,Pooled level + price,8,-18676.759679520954,-10887.193325260796
+5,Median 13 weeks,Pooled log + nonlinear price,8,-23836.013191641225,-1924.5867975688516
+5,Median 13 weeks,Pooled log + price,8,-23163.50134289919,-11414.786286504159
+5,Median 26 weeks,Independent level + price,9,-9156.042208406088,-13127.872420231892
+5,Median 26 weeks,Independent log + price,9,3481.433835880447,-9092.075456137762
+5,Median 26 weeks,Pooled level + price,9,-8993.410352956345,-13621.872885984221
+5,Median 26 weeks,Pooled log + nonlinear price,9,8874.868791827157,-2355.3964765727874
+5,Median 26 weeks,Pooled log + price,9,4026.6453425518785,-9304.54806995093
+5,Median 8 weeks,Independent level + price,6,1049.1151689586666,-5019.55287771448
+5,Median 8 weeks,Independent log + price,6,1880.2992266913425,-2019.0913518670213
+5,Median 8 weeks,Pooled level + price,6,1197.513043568412,-5064.567723553768
+5,Median 8 weeks,Pooled log + nonlinear price,6,1821.535683320888,-2097.726808932926
+5,Median 8 weeks,Pooled log + price,6,1825.69724778299,-2082.3630567395903

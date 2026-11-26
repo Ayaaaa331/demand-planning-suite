@@ -1,0 +1,11 @@
+Series,Region,Product_Group,Model,Forecast_Weeks,Total_Forecast_Units,Average_Weekly_Units,Minimum_Weekly_Units,Maximum_Weekly_Units
+North 1,North,1,Moving median 13,52,32604,627.0,627,627
+North 2,North,2,Log price Ridge regression,52,66365,1276.25,642,4515
+North 3,North,3,SES,52,68328,1314.0,1314,1314
+North 4,North,4,Holt linear,52,72521,1394.6346153846155,1135,1654
+North 5,North,5,Moving median 13,52,17888,344.0,344,344
+South 1,South,1,Moving median 13,52,40508,779.0,779,779
+South 2,South,2,Log price Ridge regression,52,79490,1528.6538461538462,754,4593
+South 3,South,3,Log calendar regression,52,98936,1902.6153846153845,839,3413
+South 4,South,4,Holt linear,52,100527,1933.2115384615386,1579,2288
+South 5,South,5,Moving median 13,52,18824,362.0,362,362

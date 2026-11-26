@@ -1,0 +1,11 @@
+Series,MAPE_Selected_Model,MAPE_Selected_Forecast_Units,WAPE_Selected_Forecast_Units,Best_WAPE_Model,Difference_Units
+North 1,Moving median 13,8151,8151,Moving median 13,0
+North 2,Log price Ridge regression,11338,11018,Seasonal calendar regression,-320
+North 3,SES,17082,11229,Log calendar regression,-5853
+North 4,Holt linear,15551,15551,Holt linear,0
+North 5,Moving median 13,4472,4472,Moving median 13,0
+South 1,Moving median 13,10127,14092,SES,3965
+South 2,Log price Ridge regression,13973,14049,Seasonal calendar regression,76
+South 3,Log calendar regression,14478,16172,Moving average 4,1694
+South 4,Holt linear,21609,20181,Linear regression,-1428
+South 5,Moving median 13,4706,741,Naive,-3965

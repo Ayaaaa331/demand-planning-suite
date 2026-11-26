@@ -1,0 +1,11 @@
+Series,Total_Weeks,Demand_Analysis_Weeks,Price_Analysis_Weeks,Pre_Launch_Weeks,Active_Zero_Sales,Potential_Outliers,Known_Revenue_Weeks
+North 1,92,92,92,0,0,1,92
+North 2,92,92,91,0,0,6,91
+North 3,92,92,92,0,0,6,92
+North 4,92,92,92,0,0,3,92
+North 5,92,84,78,8,2,3,88
+South 1,92,92,92,0,0,5,92
+South 2,92,92,91,0,0,5,91
+South 3,92,92,92,0,0,5,92
+South 4,92,92,92,0,0,1,92
+South 5,92,84,77,8,2,8,87

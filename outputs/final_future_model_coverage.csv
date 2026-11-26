@@ -1,0 +1,16 @@
+Model,Available_Forecasts,Expected_Forecasts,Complete
+"ARIMAX (1,0,0)",520,520,True
+Holt damped,520,520,True
+Holt linear,520,520,True
+Linear regression,520,520,True
+Log calendar regression,520,520,True
+Log price Ridge regression,520,520,True
+Moving average 13,520,520,True
+Moving average 4,520,520,True
+Moving median 13,520,520,True
+Naive,520,520,True
+Pooled log price regression,520,520,True
+Price Ridge regression,520,520,True
+SES,520,520,True
+Seasonal calendar regression,520,520,True
+Seasonal naive,520,520,True

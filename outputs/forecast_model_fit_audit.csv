@@ -1,0 +1,271 @@
+Fold,Series,Model,Success,Message
+1,North 1,SES,True,L-BFGS-B
+1,North 1,Holt linear,True,L-BFGS-B
+1,North 1,Holt damped,True,L-BFGS-B
+1,North 1,Moving median 13,True,Median
+1,North 1,Log calendar regression,True,Ridge
+1,North 1,Price Ridge regression,True,Ridge
+1,North 1,Log price Ridge regression,True,Ridge
+1,North 1,"ARIMAX (1,0,0)",True,lbfgs
+1,North 2,SES,True,L-BFGS-B
+1,North 2,Holt linear,True,L-BFGS-B
+1,North 2,Holt damped,True,L-BFGS-B
+1,North 2,Moving median 13,True,Median
+1,North 2,Log calendar regression,True,Ridge
+1,North 2,Price Ridge regression,True,Ridge
+1,North 2,Log price Ridge regression,True,Ridge
+1,North 2,"ARIMAX (1,0,0)",True,lbfgs
+1,North 3,SES,True,L-BFGS-B
+1,North 3,Holt linear,True,L-BFGS-B
+1,North 3,Holt damped,True,L-BFGS-B
+1,North 3,Moving median 13,True,Median
+1,North 3,Log calendar regression,True,Ridge
+1,North 3,Price Ridge regression,True,Ridge
+1,North 3,Log price Ridge regression,True,Ridge
+1,North 3,"ARIMAX (1,0,0)",True,lbfgs
+1,North 4,SES,True,L-BFGS-B
+1,North 4,Holt linear,True,L-BFGS-B
+1,North 4,Holt damped,True,L-BFGS-B
+1,North 4,Moving median 13,True,Median
+1,North 4,Log calendar regression,True,Ridge
+1,North 4,Price Ridge regression,True,Ridge
+1,North 4,Log price Ridge regression,True,Ridge
+1,North 4,"ARIMAX (1,0,0)",True,lbfgs
+1,North 5,SES,True,L-BFGS-B
+1,North 5,Holt linear,True,L-BFGS-B
+1,North 5,Holt damped,True,L-BFGS-B
+1,North 5,Moving median 13,True,Median
+1,North 5,Log calendar regression,True,Ridge
+1,North 5,Price Ridge regression,True,Ridge
+1,North 5,Log price Ridge regression,True,Ridge
+1,North 5,"ARIMAX (1,0,0)",True,lbfgs
+1,South 1,SES,True,L-BFGS-B
+1,South 1,Holt linear,True,L-BFGS-B
+1,South 1,Holt damped,True,L-BFGS-B
+1,South 1,Moving median 13,True,Median
+1,South 1,Log calendar regression,True,Ridge
+1,South 1,Price Ridge regression,True,Ridge
+1,South 1,Log price Ridge regression,True,Ridge
+1,South 1,"ARIMAX (1,0,0)",True,lbfgs
+1,South 2,SES,True,L-BFGS-B
+1,South 2,Holt linear,True,L-BFGS-B
+1,South 2,Holt damped,True,L-BFGS-B
+1,South 2,Moving median 13,True,Median
+1,South 2,Log calendar regression,True,Ridge
+1,South 2,Price Ridge regression,True,Ridge
+1,South 2,Log price Ridge regression,True,Ridge
+1,South 2,"ARIMAX (1,0,0)",True,lbfgs
+1,South 3,SES,True,L-BFGS-B
+1,South 3,Holt linear,True,L-BFGS-B
+1,South 3,Holt damped,True,L-BFGS-B
+1,South 3,Moving median 13,True,Median
+1,South 3,Log calendar regression,True,Ridge
+1,South 3,Price Ridge regression,True,Ridge
+1,South 3,Log price Ridge regression,True,Ridge
+1,South 3,"ARIMAX (1,0,0)",True,lbfgs
+1,South 4,SES,True,L-BFGS-B
+1,South 4,Holt linear,True,L-BFGS-B
+1,South 4,Holt damped,True,L-BFGS-B
+1,South 4,Moving median 13,True,Median
+1,South 4,Log calendar regression,True,Ridge
+1,South 4,Price Ridge regression,True,Ridge
+1,South 4,Log price Ridge regression,True,Ridge
+1,South 4,"ARIMAX (1,0,0)",True,lbfgs
+1,South 5,SES,True,L-BFGS-B
+1,South 5,Holt linear,True,L-BFGS-B
+1,South 5,Holt damped,True,L-BFGS-B
+1,South 5,Moving median 13,True,Median
+1,South 5,Log calendar regression,True,Ridge
+1,South 5,Price Ridge regression,True,Ridge
+1,South 5,Log price Ridge regression,True,Ridge
+1,South 5,"ARIMAX (1,0,0)",True,lbfgs
+1,North 1,Pooled log price regression,True,Pooled Ridge
+1,South 1,Pooled log price regression,True,Pooled Ridge
+1,North 2,Pooled log price regression,True,Pooled Ridge
+1,South 2,Pooled log price regression,True,Pooled Ridge
+1,North 3,Pooled log price regression,True,Pooled Ridge
+1,South 3,Pooled log price regression,True,Pooled Ridge
+1,North 4,Pooled log price regression,True,Pooled Ridge
+1,South 4,Pooled log price regression,True,Pooled Ridge
+1,North 5,Pooled log price regression,True,Pooled Ridge
+1,South 5,Pooled log price regression,True,Pooled Ridge
+2,North 1,SES,True,L-BFGS-B
+2,North 1,Holt linear,True,L-BFGS-B
+2,North 1,Holt damped,True,L-BFGS-B
+2,North 1,Moving median 13,True,Median
+2,North 1,Log calendar regression,True,Ridge
+2,North 1,Price Ridge regression,True,Ridge
+2,North 1,Log price Ridge regression,True,Ridge
+2,North 1,"ARIMAX (1,0,0)",True,lbfgs
+2,North 2,SES,True,L-BFGS-B
+2,North 2,Holt linear,True,L-BFGS-B
+2,North 2,Holt damped,True,L-BFGS-B
+2,North 2,Moving median 13,True,Median
+2,North 2,Log calendar regression,True,Ridge
+2,North 2,Price Ridge regression,True,Ridge
+2,North 2,Log price Ridge regression,True,Ridge
+2,North 2,"ARIMAX (1,0,0)",True,lbfgs
+2,North 3,SES,True,L-BFGS-B
+2,North 3,Holt linear,True,L-BFGS-B
+2,North 3,Holt damped,True,L-BFGS-B
+2,North 3,Moving median 13,True,Median
+2,North 3,Log calendar regression,True,Ridge
+2,North 3,Price Ridge regression,True,Ridge
+2,North 3,Log price Ridge regression,True,Ridge
+2,North 3,"ARIMAX (1,0,0)",True,lbfgs
+2,North 4,SES,True,L-BFGS-B
+2,North 4,Holt linear,True,L-BFGS-B
+2,North 4,Holt damped,True,L-BFGS-B
+2,North 4,Moving median 13,True,Median
+2,North 4,Log calendar regression,True,Ridge
+2,North 4,Price Ridge regression,True,Ridge
+2,North 4,Log price Ridge regression,True,Ridge
+2,North 4,"ARIMAX (1,0,0)",True,lbfgs
+2,North 5,SES,True,L-BFGS-B
+2,North 5,Holt linear,True,L-BFGS-B
+2,North 5,Holt damped,True,L-BFGS-B
+2,North 5,Moving median 13,True,Median
+2,North 5,Log calendar regression,True,Ridge
+2,North 5,Price Ridge regression,True,Ridge
+2,North 5,Log price Ridge regression,True,Ridge
+2,North 5,"ARIMAX (1,0,0)",True,lbfgs
+2,South 1,SES,True,L-BFGS-B
+2,South 1,Holt linear,True,L-BFGS-B
+2,South 1,Holt damped,True,L-BFGS-B
+2,South 1,Moving median 13,True,Median
+2,South 1,Log calendar regression,True,Ridge
+2,South 1,Price Ridge regression,True,Ridge
+2,South 1,Log price Ridge regression,True,Ridge
+2,South 1,"ARIMAX (1,0,0)",True,lbfgs
+2,South 2,SES,True,L-BFGS-B
+2,South 2,Holt linear,True,L-BFGS-B
+2,South 2,Holt damped,True,L-BFGS-B
+2,South 2,Moving median 13,True,Median
+2,South 2,Log calendar regression,True,Ridge
+2,South 2,Price Ridge regression,True,Ridge
+2,South 2,Log price Ridge regression,True,Ridge
+2,South 2,"ARIMAX (1,0,0)",True,lbfgs
+2,South 3,SES,True,L-BFGS-B
+2,South 3,Holt linear,True,L-BFGS-B
+2,South 3,Holt damped,True,L-BFGS-B
+2,South 3,Moving median 13,True,Median
+2,South 3,Log calendar regression,True,Ridge
+2,South 3,Price Ridge regression,True,Ridge
+2,South 3,Log price Ridge regression,True,Ridge
+2,South 3,"ARIMAX (1,0,0)",True,lbfgs
+2,South 4,SES,True,L-BFGS-B
+2,South 4,Holt linear,True,L-BFGS-B
+2,South 4,Holt damped,True,L-BFGS-B
+2,South 4,Moving median 13,True,Median
+2,South 4,Log calendar regression,True,Ridge
+2,South 4,Price Ridge regression,True,Ridge
+2,South 4,Log price Ridge regression,True,Ridge
+2,South 4,"ARIMAX (1,0,0)",True,lbfgs
+2,South 5,SES,True,L-BFGS-B
+2,South 5,Holt linear,True,L-BFGS-B
+2,South 5,Holt damped,True,L-BFGS-B
+2,South 5,Moving median 13,True,Median
+2,South 5,Log calendar regression,True,Ridge
+2,South 5,Price Ridge regression,True,Ridge
+2,South 5,Log price Ridge regression,True,Ridge
+2,South 5,"ARIMAX (1,0,0)",True,lbfgs
+2,North 1,Pooled log price regression,True,Pooled Ridge
+2,South 1,Pooled log price regression,True,Pooled Ridge
+2,North 2,Pooled log price regression,True,Pooled Ridge
+2,South 2,Pooled log price regression,True,Pooled Ridge
+2,North 3,Pooled log price regression,True,Pooled Ridge
+2,South 3,Pooled log price regression,True,Pooled Ridge
+2,North 4,Pooled log price regression,True,Pooled Ridge
+2,South 4,Pooled log price regression,True,Pooled Ridge
+2,North 5,Pooled log price regression,True,Pooled Ridge
+2,South 5,Pooled log price regression,True,Pooled Ridge
+3,North 1,SES,True,L-BFGS-B
+3,North 1,Holt linear,True,L-BFGS-B
+3,North 1,Holt damped,True,L-BFGS-B
+3,North 1,Moving median 13,True,Median
+3,North 1,Log calendar regression,True,Ridge
+3,North 1,Price Ridge regression,True,Ridge
+3,North 1,Log price Ridge regression,True,Ridge
+3,North 1,"ARIMAX (1,0,0)",True,lbfgs
+3,North 2,SES,True,L-BFGS-B
+3,North 2,Holt linear,True,L-BFGS-B
+3,North 2,Holt damped,True,L-BFGS-B
+3,North 2,Moving median 13,True,Median
+3,North 2,Log calendar regression,True,Ridge
+3,North 2,Price Ridge regression,True,Ridge
+3,North 2,Log price Ridge regression,True,Ridge
+3,North 2,"ARIMAX (1,0,0)",True,lbfgs
+3,North 3,SES,True,L-BFGS-B
+3,North 3,Holt linear,True,L-BFGS-B
+3,North 3,Holt damped,True,L-BFGS-B
+3,North 3,Moving median 13,True,Median
+3,North 3,Log calendar regression,True,Ridge
+3,North 3,Price Ridge regression,True,Ridge
+3,North 3,Log price Ridge regression,True,Ridge
+3,North 3,"ARIMAX (1,0,0)",True,lbfgs
+3,North 4,SES,True,L-BFGS-B
+3,North 4,Holt linear,True,L-BFGS-B
+3,North 4,Holt damped,True,L-BFGS-B
+3,North 4,Moving median 13,True,Median
+3,North 4,Log calendar regression,True,Ridge
+3,North 4,Price Ridge regression,True,Ridge
+3,North 4,Log price Ridge regression,True,Ridge
+3,North 4,"ARIMAX (1,0,0)",True,lbfgs
+3,North 5,SES,True,L-BFGS-B
+3,North 5,Holt linear,True,L-BFGS-B
+3,North 5,Holt damped,True,L-BFGS-B
+3,North 5,Moving median 13,True,Median
+3,North 5,Log calendar regression,True,Ridge
+3,North 5,Price Ridge regression,True,Ridge
+3,North 5,Log price Ridge regression,True,Ridge
+3,North 5,"ARIMAX (1,0,0)",True,lbfgs
+3,South 1,SES,True,L-BFGS-B
+3,South 1,Holt linear,True,L-BFGS-B
+3,South 1,Holt damped,True,L-BFGS-B
+3,South 1,Moving median 13,True,Median
+3,South 1,Log calendar regression,True,Ridge
+3,South 1,Price Ridge regression,True,Ridge
+3,South 1,Log price Ridge regression,True,Ridge
+3,South 1,"ARIMAX (1,0,0)",True,lbfgs
+3,South 2,SES,True,L-BFGS-B
+3,South 2,Holt linear,True,L-BFGS-B
+3,South 2,Holt damped,True,L-BFGS-B
+3,South 2,Moving median 13,True,Median
+3,South 2,Log calendar regression,True,Ridge
+3,South 2,Price Ridge regression,True,Ridge
+3,South 2,Log price Ridge regression,True,Ridge
+3,South 2,"ARIMAX (1,0,0)",True,lbfgs
+3,South 3,SES,True,L-BFGS-B
+3,South 3,Holt linear,True,L-BFGS-B
+3,South 3,Holt damped,True,L-BFGS-B
+3,South 3,Moving median 13,True,Median
+3,South 3,Log calendar regression,True,Ridge
+3,South 3,Price Ridge regression,True,Ridge
+3,South 3,Log price Ridge regression,True,Ridge
+3,South 3,"ARIMAX (1,0,0)",True,lbfgs
+3,South 4,SES,True,L-BFGS-B
+3,South 4,Holt linear,True,L-BFGS-B
+3,South 4,Holt damped,True,L-BFGS-B
+3,South 4,Moving median 13,True,Median
+3,South 4,Log calendar regression,True,Ridge
+3,South 4,Price Ridge regression,True,Ridge
+3,South 4,Log price Ridge regression,True,Ridge
+3,South 4,"ARIMAX (1,0,0)",True,lbfgs
+3,South 5,SES,True,L-BFGS-B
+3,South 5,Holt linear,True,L-BFGS-B
+3,South 5,Holt damped,True,L-BFGS-B
+3,South 5,Moving median 13,True,Median
+3,South 5,Log calendar regression,True,Ridge
+3,South 5,Price Ridge regression,True,Ridge
+3,South 5,Log price Ridge regression,True,Ridge
+3,South 5,"ARIMAX (1,0,0)",True,lbfgs
+3,North 1,Pooled log price regression,True,Pooled Ridge
+3,South 1,Pooled log price regression,True,Pooled Ridge
+3,North 2,Pooled log price regression,True,Pooled Ridge
+3,South 2,Pooled log price regression,True,Pooled Ridge
+3,North 3,Pooled log price regression,True,Pooled Ridge
+3,South 3,Pooled log price regression,True,Pooled Ridge
+3,North 4,Pooled log price regression,True,Pooled Ridge
+3,South 4,Pooled log price regression,True,Pooled Ridge
+3,North 5,Pooled log price regression,True,Pooled Ridge
+3,South 5,Pooled log price regression,True,Pooled Ridge

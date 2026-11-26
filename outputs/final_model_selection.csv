@@ -1,0 +1,11 @@
+Series,Selected_Model,Development_MAPE,Development_WAPE,Development_Bias_Pct,Best_WAPE_Model,Best_WAPE_Pct,Selection_Rule,Planning_Warning
+North 1,Moving median 13,41.776595120552884,46.53415557261202,-25.577640737897994,Moving median 13,46.53415557261202,Lowest development MAPE,Material development underforecasting
+North 2,Log price Ridge regression,55.70859189239113,57.118095589760934,-42.41029908749883,Seasonal calendar regression,55.898246126808594,Lowest development MAPE,Material development underforecasting
+North 3,SES,46.178818716479356,59.46779055380872,-53.657405014137424,Log calendar regression,59.12394762975555,Lowest development MAPE,Severe development underforecasting
+North 4,Holt linear,23.185044512353308,23.135709316200817,-7.225710086853414,Holt linear,23.135709316200817,Lowest development MAPE,
+North 5,Moving median 13,50.6598547235543,95.01435262124188,-94.10787127964949,Moving median 13,95.01435262124188,Lowest development MAPE,Severe development underforecasting
+South 1,Moving median 13,43.220985943090604,46.477552211430236,-27.89820334319897,SES,45.042041301929125,Lowest development MAPE,Material development underforecasting
+South 2,Log price Ridge regression,49.199098849631,55.11469165433368,-41.46387872293946,Seasonal calendar regression,54.259620851177715,Lowest development MAPE,Material development underforecasting
+South 3,Log calendar regression,44.788474634093376,61.05477264779666,-56.632657097561214,Moving average 4,59.74275531930958,Lowest development MAPE,Severe development underforecasting
+South 4,Holt linear,21.342722824030922,23.191287328065094,-12.418710174889794,Linear regression,22.184009281876353,Lowest development MAPE,
+South 5,Moving median 13,50.35724619704324,89.8812510453253,-88.91118916206725,Naive,89.42967051346379,Lowest development MAPE,Severe development underforecasting

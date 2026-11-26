@@ -1,0 +1,151 @@
+Series,Model,Success,Message
+North 1,"ARIMAX (1,0,0)",True,lbfgs
+North 1,Holt damped,True,L-BFGS-B
+North 1,Holt linear,True,L-BFGS-B
+North 1,Linear regression,True,OLS
+North 1,Log calendar regression,True,Ridge
+North 1,Log price Ridge regression,True,Ridge
+North 1,Moving average 13,True,13-week mean
+North 1,Moving average 4,True,4-week mean
+North 1,Moving median 13,True,Median
+North 1,Naive,True,Last observation
+North 1,Price Ridge regression,True,Ridge
+North 1,SES,True,L-BFGS-B
+North 1,Seasonal calendar regression,True,Ridge
+North 1,Seasonal naive,True,52-week lag
+North 2,"ARIMAX (1,0,0)",True,lbfgs
+North 2,Holt damped,True,L-BFGS-B
+North 2,Holt linear,True,L-BFGS-B
+North 2,Linear regression,True,OLS
+North 2,Log calendar regression,True,Ridge
+North 2,Log price Ridge regression,True,Ridge
+North 2,Moving average 13,True,13-week mean
+North 2,Moving average 4,True,4-week mean
+North 2,Moving median 13,True,Median
+North 2,Naive,True,Last observation
+North 2,Price Ridge regression,True,Ridge
+North 2,SES,True,L-BFGS-B
+North 2,Seasonal calendar regression,True,Ridge
+North 2,Seasonal naive,True,52-week lag
+North 3,"ARIMAX (1,0,0)",True,lbfgs
+North 3,Holt damped,True,L-BFGS-B
+North 3,Holt linear,True,L-BFGS-B
+North 3,Linear regression,True,OLS
+North 3,Log calendar regression,True,Ridge
+North 3,Log price Ridge regression,True,Ridge
+North 3,Moving average 13,True,13-week mean
+North 3,Moving average 4,True,4-week mean
+North 3,Moving median 13,True,Median
+North 3,Naive,True,Last observation
+North 3,Price Ridge regression,True,Ridge
+North 3,SES,True,L-BFGS-B
+North 3,Seasonal calendar regression,True,Ridge
+North 3,Seasonal naive,True,52-week lag
+North 4,"ARIMAX (1,0,0)",True,lbfgs
+North 4,Holt damped,True,L-BFGS-B
+North 4,Holt linear,True,L-BFGS-B
+North 4,Linear regression,True,OLS
+North 4,Log calendar regression,True,Ridge
+North 4,Log price Ridge regression,True,Ridge
+North 4,Moving average 13,True,13-week mean
+North 4,Moving average 4,True,4-week mean
+North 4,Moving median 13,True,Median
+North 4,Naive,True,Last observation
+North 4,Price Ridge regression,True,Ridge
+North 4,SES,True,L-BFGS-B
+North 4,Seasonal calendar regression,True,Ridge
+North 4,Seasonal naive,True,52-week lag
+North 5,"ARIMAX (1,0,0)",True,lbfgs
+North 5,Holt damped,True,L-BFGS-B
+North 5,Holt linear,True,L-BFGS-B
+North 5,Linear regression,True,OLS
+North 5,Log calendar regression,True,Ridge
+North 5,Log price Ridge regression,True,Ridge
+North 5,Moving average 13,True,13-week mean
+North 5,Moving average 4,True,4-week mean
+North 5,Moving median 13,True,Median
+North 5,Naive,True,Last observation
+North 5,Price Ridge regression,True,Ridge
+North 5,SES,True,L-BFGS-B
+North 5,Seasonal calendar regression,True,Ridge
+North 5,Seasonal naive,True,52-week lag
+South 1,"ARIMAX (1,0,0)",True,lbfgs
+South 1,Holt damped,True,L-BFGS-B
+South 1,Holt linear,True,L-BFGS-B
+South 1,Linear regression,True,OLS
+South 1,Log calendar regression,True,Ridge
+South 1,Log price Ridge regression,True,Ridge
+South 1,Moving average 13,True,13-week mean
+South 1,Moving average 4,True,4-week mean
+South 1,Moving median 13,True,Median
+South 1,Naive,True,Last observation
+South 1,Price Ridge regression,True,Ridge
+South 1,SES,True,L-BFGS-B
+South 1,Seasonal calendar regression,True,Ridge
+South 1,Seasonal naive,True,52-week lag
+South 2,"ARIMAX (1,0,0)",True,lbfgs
+South 2,Holt damped,True,L-BFGS-B
+South 2,Holt linear,True,L-BFGS-B
+South 2,Linear regression,True,OLS
+South 2,Log calendar regression,True,Ridge
+South 2,Log price Ridge regression,True,Ridge
+South 2,Moving average 13,True,13-week mean
+South 2,Moving average 4,True,4-week mean
+South 2,Moving median 13,True,Median
+South 2,Naive,True,Last observation
+South 2,Price Ridge regression,True,Ridge
+South 2,SES,True,L-BFGS-B
+South 2,Seasonal calendar regression,True,Ridge
+South 2,Seasonal naive,True,52-week lag
+South 3,"ARIMAX (1,0,0)",True,lbfgs
+South 3,Holt damped,True,L-BFGS-B
+South 3,Holt linear,True,L-BFGS-B
+South 3,Linear regression,True,OLS
+South 3,Log calendar regression,True,Ridge
+South 3,Log price Ridge regression,True,Ridge
+South 3,Moving average 13,True,13-week mean
+South 3,Moving average 4,True,4-week mean
+South 3,Moving median 13,True,Median
+South 3,Naive,True,Last observation
+South 3,Price Ridge regression,True,Ridge
+South 3,SES,True,L-BFGS-B
+South 3,Seasonal calendar regression,True,Ridge
+South 3,Seasonal naive,True,52-week lag
+South 4,"ARIMAX (1,0,0)",True,lbfgs
+South 4,Holt damped,True,L-BFGS-B
+South 4,Holt linear,True,L-BFGS-B
+South 4,Linear regression,True,OLS
+South 4,Log calendar regression,True,Ridge
+South 4,Log price Ridge regression,True,Ridge
+South 4,Moving average 13,True,13-week mean
+South 4,Moving average 4,True,4-week mean
+South 4,Moving median 13,True,Median
+South 4,Naive,True,Last observation
+South 4,Price Ridge regression,True,Ridge
+South 4,SES,True,L-BFGS-B
+South 4,Seasonal calendar regression,True,Ridge
+South 4,Seasonal naive,True,52-week lag
+South 5,"ARIMAX (1,0,0)",True,lbfgs
+South 5,Holt damped,True,L-BFGS-B
+South 5,Holt linear,True,L-BFGS-B
+South 5,Linear regression,True,OLS
+South 5,Log calendar regression,True,Ridge
+South 5,Log price Ridge regression,True,Ridge
+South 5,Moving average 13,True,13-week mean
+South 5,Moving average 4,True,4-week mean
+South 5,Moving median 13,True,Median
+South 5,Naive,True,Last observation
+South 5,Price Ridge regression,True,Ridge
+South 5,SES,True,L-BFGS-B
+South 5,Seasonal calendar regression,True,Ridge
+South 5,Seasonal naive,True,52-week lag
+North 1,Pooled log price regression,True,Pooled Ridge
+South 1,Pooled log price regression,True,Pooled Ridge
+North 2,Pooled log price regression,True,Pooled Ridge
+South 2,Pooled log price regression,True,Pooled Ridge
+North 3,Pooled log price regression,True,Pooled Ridge
+South 3,Pooled log price regression,True,Pooled Ridge
+North 4,Pooled log price regression,True,Pooled Ridge
+South 4,Pooled log price regression,True,Pooled Ridge
+North 5,Pooled log price regression,True,Pooled Ridge
+South 5,Pooled log price regression,True,Pooled Ridge

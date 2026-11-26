@@ -1,0 +1,10 @@
+Model,Attempted_Fits,Successful_Fits,Failed_Fits
+"ARIMAX (1,0,0)",30,30,0
+Holt damped,30,30,0
+Holt linear,30,30,0
+Log calendar regression,30,30,0
+Log price Ridge regression,30,30,0
+Moving median 13,30,30,0
+Pooled log price regression,30,30,0
+Price Ridge regression,30,30,0
+SES,30,30,0

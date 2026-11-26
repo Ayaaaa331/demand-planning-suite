@@ -1,0 +1,21 @@
+Week,Region,Product_Group,Series,Sales,Price,Period,Lifecycle_Status,Price_Status
+2020-07-06,North,5,North 5,0.0,,Historical,Before_First_Sale,Missing_Before_First_Sale
+2020-07-13,North,5,North 5,0.0,,Historical,Before_First_Sale,Missing_Before_First_Sale
+2020-07-20,North,5,North 5,0.0,,Historical,Before_First_Sale,Missing_Before_First_Sale
+2020-07-27,North,5,North 5,0.0,,Historical,Before_First_Sale,Missing_Before_First_Sale
+2020-08-03,North,5,North 5,0.0,,Historical,Before_First_Sale,Missing_Before_First_Sale
+2020-08-10,North,5,North 5,0.0,,Historical,Before_First_Sale,Missing_Before_First_Sale
+2020-08-17,North,5,North 5,0.0,,Historical,Before_First_Sale,Missing_Before_First_Sale
+2020-08-24,North,5,North 5,0.0,,Historical,Before_First_Sale,Missing_Before_First_Sale
+2020-09-07,North,5,North 5,0.0,,Historical,Active_Window,Missing_With_Active_Zero_Sales
+2020-09-14,North,5,North 5,0.0,,Historical,Active_Window,Missing_With_Active_Zero_Sales
+2020-07-06,South,5,South 5,0.0,,Historical,Before_First_Sale,Missing_Before_First_Sale
+2020-07-13,South,5,South 5,0.0,,Historical,Before_First_Sale,Missing_Before_First_Sale
+2020-07-20,South,5,South 5,0.0,,Historical,Before_First_Sale,Missing_Before_First_Sale
+2020-07-27,South,5,South 5,0.0,,Historical,Before_First_Sale,Missing_Before_First_Sale
+2020-08-03,South,5,South 5,0.0,,Historical,Before_First_Sale,Missing_Before_First_Sale
+2020-08-10,South,5,South 5,0.0,,Historical,Before_First_Sale,Missing_Before_First_Sale
+2020-08-17,South,5,South 5,0.0,,Historical,Before_First_Sale,Missing_Before_First_Sale
+2020-08-24,South,5,South 5,0.0,,Historical,Before_First_Sale,Missing_Before_First_Sale
+2020-09-07,South,5,South 5,0.0,,Historical,Active_Window,Missing_With_Active_Zero_Sales
+2020-09-14,South,5,South 5,0.0,,Historical,Active_Window,Missing_With_Active_Zero_Sales

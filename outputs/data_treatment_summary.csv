@@ -1,0 +1,6 @@
+Issue,Count,Treatment
+Pre-launch observations,16,Retained in master dataset; excluded from active-demand analysis
+Active zero sales,4,Retained and flagged as potential availability issues
+Missing prices with positive sales,11,Sales retained; excluded from observed-price analysis
+Potential sales outliers,43,Retained for investigation of seasonality and promotions
+Missing revenue,11,Left unknown because observed prices are unavailable
